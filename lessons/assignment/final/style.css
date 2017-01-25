@@ -1,0 +1,93 @@
+body {
+  font-family: sans-serif;
+}
+
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 24px;
+  color: grey;
+}
+
+h4 {
+  font-size: 1.625rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  font-style: italic;
+  font-family: "nyt-cheltenham",georgia,"times new roman",times,serif;
+  letter-spacing: .01em;
+  word-spacing: -0.1em;
+}
+
+h5 {
+  font-size: 10px;
+  font-size: 0.625rem;
+  line-height: 12px;
+  line-height: 0.75rem;
+  font-weight: 400;
+  font-style: normal;
+  font-family: georgia,"times new roman",times,serif;
+  color: #999;
+  margin: 4px 0 1px;
+
+}
+
+p {
+  margin: 0px;
+  line-height: 22px;
+  word-spacing: 10px;
+  letter-spacing: 10px;
+}
+
+.second {
+  font-size: 18px;
+  background-color: #dadada;
+  padding-left: 30px;
+  margin-left: 30px;
+  border: 3px solid blue;
+  margin-top: 20px;
+}
+
+
+.secondary {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 20px;
+  margin-left: 20px;
+}
+
+button:hover {
+  background-color: #365899;
+  border-color: #365899;
+  cursor: pointer;
+}
+
+.btn-facebook {
+  background-color: #4267b2;
+  border-color: #4267b2;
+  color: white;
+  border-radius: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-family: Helvetica;
+  font-size: 12px;
+  line-height: 21px;
+  height: 24px;
+  width: 60px;
+  font-weight: bold;
+  border: 1px solid;
+
+}
+
+img {
+  cursor: pointer;
+}
+
