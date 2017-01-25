@@ -11,7 +11,7 @@ In this course you will learn basic HTML and CSS. This lesson's project will be 
 
 ### Resources
 
-https://www.khanacademy.org/computing/computer-programming/html-css
+[Khan Academy - CSS/HTML](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 http://stackoverflow.com/
 
