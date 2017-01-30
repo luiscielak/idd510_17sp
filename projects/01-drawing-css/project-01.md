@@ -24,7 +24,7 @@ The project consists on analyzing and deconstructing an abstract painting or ill
 
 ### 1. Find an abstract artist/painting
 
-![Kandinsky](/img/01-art.jpg "Circles in a Circle")
+![Kandinsky](img/01-art.jpg "Circles in a Circle")
 
 
 
