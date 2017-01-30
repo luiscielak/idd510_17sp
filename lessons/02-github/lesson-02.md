@@ -7,6 +7,7 @@ In this course you will learn how GitHub works. This lesson's project will consi
 * Git
 * GitHub
 * Hosting with GitHub Pages
+* Markdown syntax (`.md`, `.markdown`)
 
 
 ### Resources
