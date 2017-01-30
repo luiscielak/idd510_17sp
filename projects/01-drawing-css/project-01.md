@@ -24,11 +24,11 @@ The project consists on analyzing and deconstructing an abstract painting or ill
 
 ### 1. Find an abstract artist/painting
 
-![Kandinsky](/img/01-artto/img.jpg "Circles in a Circle")
+![Kandinsky](/img/01-art.jpg "Circles in a Circle")
 
 
 
-* Resources *
+*Resources*
 
 * [Philadelphia Museum of Art](http://www.philamuseum.org/)
 * [Kandinsky - Circles in a Circle](http://www.philamuseum.org/collections/permanent/51019.html)
