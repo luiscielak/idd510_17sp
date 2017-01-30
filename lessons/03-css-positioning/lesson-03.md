@@ -29,7 +29,7 @@ These are a few CSS attributes to get you started. You can complete the assignme
 
 
 
-### Project: [Drawing with CSS](/projects/01-drwaing-css/project-01.md)
+### Project: [Drawing with CSS](/projects/01-drawing-css/project-01.md)
 
 
 
