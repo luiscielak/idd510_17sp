@@ -24,7 +24,7 @@ The project consists on analyzing and deconstructing an abstract painting or ill
 
 
 
-### [Project: Drawing with CSS](projects/01-drawing-css)
+### Project: Drawing with CSS
 
 1. Find an abstract artist/painting
 2. Crop it into a square
