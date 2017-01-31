@@ -33,6 +33,7 @@ These are a few CSS attributes to get you started. You can complete the assignme
 
 
 
+
 ### Resources
 
 * [W3 Schools](http://www.w3schools.com/cssref/)
