@@ -53,7 +53,65 @@ _[Kandinsky - Circles in a Circle](http://www.philamuseum.org/collections/perman
 
 ### 6. Recreate each shape in CSS (size, color, border)
 
+```
+<style>
 
+  .container {
+    width: 600px;
+    height: 600px;
+    background-color: #E3D1C3;
+
+  }
+
+  .oval-01 {
+    width: 556px;
+    height: 556px;
+    border: 29px solid #171719;
+    box-sizing: border-box;
+    border-radius: 100%;
+    position: absolute;
+    top: 20px;
+    left: 25px;
+  }
+
+  .oval-02 {
+    width: 178px;
+    height: 178px;
+    border: 2px solid #3B371E;
+    background-color: #31331F;
+    box-sizing: border-box;
+    border-radius: 100%;
+    position: absolute;
+    top: 198px;
+    left: 236px;
+    opacity: 0.56;
+  }
+
+  .oval-03 {
+    width: 68px;
+    height: 68px;
+    border: 3px solid #381B15;
+    background-color: #C72B22;
+    box-sizing: border-box;
+    border-radius: 100%;
+    position: absolute;
+    top: 247px;
+    left: 243px;
+  }
+
+  .oval-04 {
+    width: 15px;
+    height: 15px;
+    background-color: #20131D;
+    box-sizing: border-box;
+    border-radius: 100%;
+    position: absolute;
+    top: 273px;
+    left: 270px;
+  }
+
+</style>
+```
 
 ### 7. Arrange the shapes into position using CSS
 
