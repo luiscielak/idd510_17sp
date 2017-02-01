@@ -32,10 +32,15 @@ These are a few CSS attributes to get you started. You can complete the assignme
 ### Project: [Drawing with CSS](../../projects/01-drawing-css/project-01.md)
 
 
-
-
-
 ### Resources
 
 * [W3 Schools](http://www.w3schools.com/cssref/)
 
+* [Team Tree House - CSS Layout](https://teamtreehouse.com/library/css-layout-techniques)
+
+* [Khan Academy - CSS Position](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/p/css-position)
+
+
+### Next Steps
+
+* Box Model 
