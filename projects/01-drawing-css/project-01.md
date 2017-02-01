@@ -115,7 +115,7 @@ _[Kandinsky - Circles in a Circle](http://www.philamuseum.org/collections/perman
 
 ### 7. Arrange the shapes into position using CSS
 
-
+![CSS Position](img/06-position.png "Circles in a Circle vector")
 
 
 
