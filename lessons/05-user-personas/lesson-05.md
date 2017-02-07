@@ -1,2 +1,9 @@
-# Lesson 05 - Media Queries
+# Lesson 05 - User Personas
+
+
+
+## Topics covered
+
+
+### Resources
 
