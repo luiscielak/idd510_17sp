@@ -37,12 +37,12 @@ This project consists of designing and implementing a responsive landing page. Y
 * Tablet: `768 x 768`
 * Desktop: `1024 x 768` 
 
-![Responsive Art-boards](img/03-artboards.png "Responsive Art-boards")
+
 
 
 ### 4. Vectorize your concepts using Sketch, Illustrator or Photoshop
 
-![Vectors](img/04-vectors.png "Concepts")
+
 
 
 ### 5. Code your landing page using HTML and CSS
