@@ -1,11 +1,10 @@
 # Lesson 04 - Box Model & Responsive Web Design
 
 
-## Box Model
+## Topics covered
 
-
-
-## Responsive Web Design (RWD)
+* Box Model
+* Responsive Web Design (RWD)
 
 
 
