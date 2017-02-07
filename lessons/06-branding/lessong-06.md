@@ -1,4 +1,4 @@
-# Lesson 05 - User Personas
+# Lesson 06 - Branding
 
 
 
