@@ -18,7 +18,7 @@ This project consists of designing and implementing a responsive landing page. Y
 
 ### 1. Search the web for inspiration on contact pages, landing pages
 
-![Dribbble](img/01-inspiration.jpg "Contact Pages")
+![Dribbble](img/01-inspiration.png "Contact Pages")
 
 ### 2. Sketch a few concept ideas using printable wireframing grids
 
