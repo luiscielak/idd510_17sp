@@ -24,15 +24,18 @@ This project consists of designing and implementing a responsive landing page. Y
 
 * [Mobile Grid x4](printable-grids/sneakpeekit-4-mobiles-grid.pdf)
 
-* [Tablet Grid](printable-grids/sneakpeekit-tablet-grid.pdf)
-* [Tablet Grid x4](printable-grids/sneakpeekit-4-tablets-grid.pdf)
+* [Tablet Grid](printable-grids/sneakpeekit-tablet-grid.pdf); [Tablet Grid x4](printable-grids/sneakpeekit-4-tablets-grid.pdf)
 
-* [Desktop Grid](printable-grids/sneakpeekit-browser-grid.pdf)
-* [Desktop Grid x4](printable-grids/sneakpeekit-4-browsers-grid.pdf)
+* [Desktop Grid](printable-grids/sneakpeekit-browser-grid.pdf); [Desktop Grid x4](printable-grids/sneakpeekit-4-browsers-grid.pdf)
 
 
 ### 3. Finalize one concept for three different screens: mobile, tablet, desktop
 
+![Responsive Art-boards](img/03-artboards.png)
+
+* Mobile: `320 x 768`
+* Tablet: `768 x 768`
+* Desktop: `1024 x 768` 
 
 ### 4. Vectorize your concepts using Sketch, Illustrator or Photoshop
 
