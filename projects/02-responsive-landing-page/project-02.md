@@ -31,17 +31,46 @@ This project consists of designing and implementing a responsive landing page. Y
 
 ### 3. Finalize one concept for three different screens: mobile, tablet, desktop
 
-![Responsive Art-boards](img/03-artboards.png)
-
 * Mobile: `320 x 768`
 * Tablet: `768 x 768`
 * Desktop: `1024 x 768` 
+
+![Responsive Art-boards](img/03-artboards.png "Responsive Art-boards")
+
 
 ### 4. Vectorize your concepts using Sketch, Illustrator or Photoshop
 
 
 ### 5. Code your landing page using HTML and CSS
 
+**Media Queries for Common Device Breakpoints**
+
+[Source: http://responsivedesign.is](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints)
+
+
+```
+/* Mobile Phone */ 
+@media only screen and (min-width : 320px) {
+
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+
+```
 
 ### 6. Test your implementation to make sure everything works on multiple screens
 
