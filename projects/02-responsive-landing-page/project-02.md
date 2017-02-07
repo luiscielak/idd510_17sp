@@ -43,31 +43,28 @@ This project consists of designing and implementing a responsive landing page. Y
 
 ### 5. Code your landing page using HTML and CSS
 
-**Media Queries for Common Device Breakpoints**
-
-[Source: http://responsivedesign.is](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints)
-
+Media Queries for Common Device Breakpoints:
 
 ```
 /* Mobile Phone */ 
 @media only screen and (min-width : 320px) {
-
+  /* Styles */ 
 }
 
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
-
+  /* Styles */ 
 }
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
-
+  /* Styles */ 
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
-
+  /* Styles */ 
 }
 
 ```
