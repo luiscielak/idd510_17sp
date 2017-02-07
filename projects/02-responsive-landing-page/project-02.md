@@ -22,6 +22,8 @@ This project consists of designing and implementing a responsive landing page. Y
 
 ### 2. Sketch a few concept ideas using printable wireframing grids
 
+![Sketches](img/02-sketch.jpg)
+
 * [Mobile Grid x4](printable-grids/sneakpeekit-4-mobiles-grid.pdf)
 
 * [Tablet Grid](printable-grids/sneakpeekit-tablet-grid.pdf); [Tablet Grid x4](printable-grids/sneakpeekit-4-tablets-grid.pdf)
@@ -39,6 +41,8 @@ This project consists of designing and implementing a responsive landing page. Y
 
 
 ### 4. Vectorize your concepts using Sketch, Illustrator or Photoshop
+
+![Vectors](img/04-vectors.png "Concepts")
 
 
 ### 5. Code your landing page using HTML and CSS
