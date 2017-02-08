@@ -78,5 +78,5 @@ Media Queries for Common Device Breakpoints:
 ### 6. Test your implementation to make sure everything works on multiple screens
 
 ![Final](img/06-final.png "Final")
-
+![Code HTML/CSS](img/05-code.png "Coding")
 
