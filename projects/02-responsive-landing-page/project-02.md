@@ -79,3 +79,7 @@ Media Queries for Common Device Breakpoints:
 
 ![Final](img/06-final.png "Final")
 
+
+[Live End Result](/projects/02-responsive-landing-page/index.html)
+
+
