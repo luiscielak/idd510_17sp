@@ -80,6 +80,6 @@ Media Queries for Common Device Breakpoints:
 ![Final](img/06-final.png "Final")
 
 
-[Live End Result](index.html)
+[Source Code](index.html)
 
 
