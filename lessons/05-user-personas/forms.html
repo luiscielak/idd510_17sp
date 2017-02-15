@@ -1,0 +1,146 @@
+<html>
+<head>
+
+  <style>
+
+    body {
+      font-family: sans-serif;
+    } 
+
+    /* Form Fields */
+    input[type] {
+      height: 26px;
+      margin-bottom: 15px;
+      min-width: 201px;
+      border-radius: 3px;
+      border: 1px solid #333333;
+      padding: 13px 6px;
+      font-size: 14px;
+    }
+
+    textarea {
+      /*height: 26px;*/
+      /*margin-bottom: 15px;*/
+      border-radius: 3px;
+      /*border: 1px solid #333333;*/
+      /*padding: 13px 6px;*/
+      font-size: 14px;
+      min-width: 201px;
+      resize: none;
+    }
+
+/*
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+      height: 26px;
+      margin-bottom: 15px;
+      min-width: 201px;
+      border-radius: 3px;
+      border: 1px solid #333333;
+      padding: 13px 6px;
+      font-size: 14px;
+    }
+    */
+
+    label {
+      position: relative;
+      top: -5px;
+    }
+
+    /* Submit Button */
+    input[type="submit"] {
+      background: #f5f5f5;
+      height: 48px;
+      font-size: 17px;
+      text-transform: uppercase;
+    }
+
+  </style>
+</head>
+<body>
+
+
+  <h1>HTML Forms!</h1>
+
+
+  
+
+  <form>
+
+    <h3>Fields</h3>
+
+    First name:<br>
+    <input type="text" name="firstname" placeholder="Type your name"><br>
+    Last name:<br>
+    <input type="text" name="lastname"><br>
+
+    Password:<br>
+    <input type="password" name="password">
+
+    <br>
+    <br>
+
+    <label>Text Area</label><br>
+    <textarea rows="4">
+      
+    </textarea>
+
+    <br><br>
+
+    <label for="email">Email</label><br>
+    <input type="email" name="email">
+
+    <br><br>
+
+    <h3>Radio Buttons</h3>
+
+    <h4>Gender</h4>
+    <input type="radio" name="gender" value="male" checked> <label for="male">Male</label><br>
+    <input type="radio" name="gender" value="female"> <label for="female">Female</label><br>
+    <input type="radio" name="gender" value="other"> <label for="other">Other</label>
+
+    <br><br>
+
+    <h3>Check boxes</h3>
+    <h4>Occupation</h4>
+    <input type="checkbox" name="ocupation" value="female"> <label for="desinger">Designer</label> <br>
+    <input type="checkbox" name="ocupation" value="other"> <label for="develpoer">Developer</label>
+
+
+    <br><br>
+    <h3>Dropdown</h3>
+
+    <h4>Favorite color</h4>
+    <select>
+      <option name="color" value="dropdown" disabled>Select a color</option>
+      <option name="color" value="red">Red</option>
+      <option name="color" value="purple">Purple</option>
+      <option name="color" value="pink">Pink</option>
+      <option name="color" value="blue">Blue</option>
+    </select>
+
+    <br><br>
+
+    <h3>Calendar Picker</h3>
+
+    <label for="birthday">Birthday</label><br>
+    <input type="date" name="bday">
+
+
+
+    <br><br>
+    <br><br>
+    <input class="button" type="submit" value="Submit">
+  </form>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
