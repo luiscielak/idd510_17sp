@@ -54,6 +54,10 @@
       height: 48px;
       font-size: 17px;
       text-transform: uppercase;
+
+      background: red; /* For browsers that do not support gradients */
+      background: linear-gradient(red, yellow); /* Standard syntax */
+
     }
 
   </style>
@@ -83,7 +87,7 @@
 
     <label>Text Area</label><br>
     <textarea rows="4">
-      
+
     </textarea>
 
     <br><br>
@@ -127,6 +131,10 @@
     <label for="birthday">Birthday</label><br>
     <input type="date" name="bday">
 
+
+    <h3>File Picker</h3>
+    <label for="file">Attachment</label>
+    <input type="file" name="photo" id="photo">
 
 
     <br><br>
