@@ -17,7 +17,7 @@ In this project you will select a website or app of your choice and generate the
 
 **Nerdwallet - Home**
 
-![Sketches](img/01-screenshot.jpg)
+![Sketches](img/01-screenshot.png)
 
 
 
