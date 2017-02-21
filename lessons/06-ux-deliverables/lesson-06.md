@@ -1,4 +1,4 @@
-# Lesson 06 - Branding
+# Lesson 06 - UX Deliverables
 
 
 

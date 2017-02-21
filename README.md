@@ -11,8 +11,8 @@ This repository contains all lessons and assignments for the course _Essentials 
 * [Lesson 02 - GitHub](lessons/02-github/lesson-02.md)
 * [Lesson 03 - CSS Positioning](lessons/03-css-positioning/lesson-03.md)
 * [Lesson 04 - Box Model & Responsive Web Design](lessons/04-box-model-rwd/lesson-04.md)
-* [Lesson 05 - User Personas](lessons/05-user-personas/lesson-05.md)
-* [Lesson 06 - Branding](lessons/06-branding/lesson-06.md)
+* [Lesson 05 - HTML Forms](lessons/05-html-forms/lesson-05.md)
+* [Lesson 06 - UX Deliverables](lessons/06-ux-deliverables/lesson-06.md)
 * [Lesson 07 - Atomic Design](lessons/07-atomic-design/lesson-07.md)
 
 **Projects** 
