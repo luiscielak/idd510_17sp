@@ -7,7 +7,12 @@ In this project you will select a website or app of your choice and generate the
 
 
 1. Deconstruct style-guide
+* one
+*two
+
 2. Define 3 user personas
+*one
+
 3. Identify 2 user journeys
 
 
@@ -15,10 +20,22 @@ In this project you will select a website or app of your choice and generate the
 
 - - -
 
+### 1. Deconstruct style-guide
+
+
 **Nerdwallet - Home**
 
 ![Sketches](img/01-screenshot.png)
 
+
+
+
+### 2. Define 3 user personas
+
+
+
+
+### 3. Identify 2 user journeys
 
 
 
