@@ -11,8 +11,7 @@ source: [UX Booth][2]
 
 * User stories
 * User flows
-* Mood boards
-* Styleguides
+* Mood boards and Styleguides
 * InVision
 
 
@@ -39,11 +38,8 @@ User-flow example:
 ![User-flow example](img/user-flow-example.jpg)
 
 
-**Mood Boards**
+**Mood Boards & Styleguides**
 ![Mood-board example](img/mood-board-example.jpg)
-
-
-**Styleguide**
 
 
 
