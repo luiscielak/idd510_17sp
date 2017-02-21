@@ -47,10 +47,10 @@ source: [Mountain Goat Software][3]
 ### Resources
 
 
-[InVision][1]
-[UX Booth][2]
-[Advantages of the “As a user, I want” user story template.][3]
-[Tactile Design Kit][4]
+* [InVision][1]
+* [UX Booth][2]
+* [Advantages of the “As a user, I want” user story template.][3]
+* [Tactile Design Kit][4]
 
 
 [1]:  https://www.invisionapp.com/
