@@ -39,7 +39,7 @@ User-flow example:
 
 
 **Mood Boards & Styleguides**
-![Mood-board example](img/mood-board-example.jpg)
+![Mood-board example](img/mood-board-example.png)
 
 
 
