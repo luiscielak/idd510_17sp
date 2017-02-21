@@ -17,7 +17,7 @@ In this project you will select a website or app of your choice and generate the
 
 **Nerdwallet - Home**
 
-![Sketches](img/02-sketch.jpg)
+![Sketches](img/01-screenshot.jpg)
 
 
 
@@ -27,4 +27,4 @@ In this project you will select a website or app of your choice and generate the
 
 
 
-[1][https://www.nerdwallet.com/]
+[1]: https://www.nerdwallet.com/
