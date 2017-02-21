@@ -31,10 +31,17 @@ source: [Mountain Goat Software][3]
 
 **User Flows**
 
+![Reusable user-flow components](img/user-flows-components.png)
+
+
+![User-flow example](img/user-flow-example.jpg)
 
 
 **Mood Boards**
 
+
+
+**Styleguide**
 
 
 
