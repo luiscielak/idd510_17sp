@@ -27,6 +27,8 @@ In this project you will select a website or app of your choice and generate the
 
 * [WhatFont Extension][2]
 * [Full Page Screen Capture Extension][3]
+
+
 - - -
 
 ### 1. Deconstruct style-guide
