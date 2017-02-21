@@ -38,11 +38,7 @@ source: [Mountain Goat Software][3]
 
 
 
-
-### Project: [UX Deconstruction](../../projects/03-ux-deconstruction/project-03.md)
-
-
-
+- - -
 
 ### Resources
 
@@ -58,4 +54,8 @@ source: [Mountain Goat Software][3]
 [3]:  https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template
 [4]:  http://tactiledesignkit.com/
 
+
+- - -
+
+### Project: [UX Deconstruction](../../projects/03-ux-deconstruction/project-03.md)
 
