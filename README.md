@@ -19,3 +19,4 @@ This repository contains all lessons and assignments for the course _Essentials 
 
 * [Project 01 - Drawing with CSS](projects/01-drawing-css/project-01.md)
 * [Project 02 - Responsive Landing Page](projects/02-responsive-landing-page/project-02.md)
+* [Project 03 - UX Deconstruction](projects/03-ux-deconstruction/project-03.md)
