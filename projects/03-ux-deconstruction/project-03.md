@@ -23,6 +23,10 @@ In this project you will select a website or app of your choice and generate the
   - Document your findings by developing a user-flow diagram
 
 
+**Resources:**
+
+* [WhatFont Extension][2]
+* [Full Page Screen Capture Extension][3]
 - - -
 
 ### 1. Deconstruct style-guide
@@ -50,3 +54,5 @@ In this project you will select a website or app of your choice and generate the
 
 
 [1]: https://www.nerdwallet.com/
+[2]: https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
+[3]: https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
