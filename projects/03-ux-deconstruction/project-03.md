@@ -7,15 +7,20 @@ In this project you will select a website or app of your choice and generate the
 
 
 1. Deconstruct style-guide
-* one
-*two
+* Take a screenshot of the current page
+* Extract the main brand colors and typography
+* Select the main UI components (buttons, fields, icons, etc)
+* Document your findings in a moodboard and a styleguide
 
-2. Define 3 user personas
-*one
+2. Define three (3) user personas
+* Derive from the content who is the target audience
+* Define the demographics and characteristics of the potential users
+* Document your findings in a user profile
 
-3. Identify 2 user journeys
-
-
+3. Identify two (2) user journeys
+* Define a few main objectives for the potential user
+* Identify key interaction points required to accomplish each task
+* Document your findings by developing a user-flow diagram
 
 
 - - -
@@ -30,12 +35,12 @@ In this project you will select a website or app of your choice and generate the
 
 
 
-### 2. Define 3 user personas
+### 2. Define three (3) user personas
 
 
 
 
-### 3. Identify 2 user journeys
+### 3. Identify two (2) user journeys
 
 
 

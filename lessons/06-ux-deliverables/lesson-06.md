@@ -31,14 +31,16 @@ source: [Mountain Goat Software][3]
 
 **User Flows**
 
+Reusable user-flow components:
 ![Reusable user-flow components](img/user-flows-components.png)
 
 
+User-flow example:
 ![User-flow example](img/user-flow-example.jpg)
 
 
 **Mood Boards**
-
+![Mood-board example](img/mood-baord-example.jpg)
 
 
 **Styleguide**
