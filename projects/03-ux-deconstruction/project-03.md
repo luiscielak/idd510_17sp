@@ -41,7 +41,7 @@ In this project you will select a website or app of your choice and generate the
 
 **Styleguide:**
 
-![Styleguide](img/01-styleguide.png)
+![Styleguide](img/02-styleguide.png)
 
 
 
@@ -76,7 +76,7 @@ For people looking to apply for a credit card.
 
 ![Flow A](img/03-user-flow-a.png)
 
-![Flow B](img/03-user-flow-b.png)
+![Flow B](img/04-user-flow-b.png)
 
 
 
