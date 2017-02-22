@@ -45,7 +45,7 @@ In this project you will select a website or app of your choice and generate the
 
 
 
-### 2. Define three (2) user personas 
+### 2. Define three (3) user personas 
 
 For people looking to apply for a credit card.
 
@@ -73,9 +73,10 @@ For people looking to apply for a credit card.
 - As a *high-school student*, I want to *find out my credit score*, so that *I can apply for a credit card*.
 
 
-
+**User flow A:**
 ![Flow A](img/03-user-flow-a.png)
 
+**User flow B:**
 ![Flow B](img/04-user-flow-b.png)
 
 
