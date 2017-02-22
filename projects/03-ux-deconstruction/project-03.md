@@ -10,7 +10,7 @@ In this project you will select a website or app of your choice and generate the
   - Take a screenshot of the current page
   - Extract the main brand colors and typography
   - Select the main UI components (buttons, fields, icons, etc)
-  - Document your findings in a moodboard
+  - Document your findings in a styleguide and upload to InVision
 
 2. Define three (3) user personas
   - Derive from the content who is the target audience
@@ -39,18 +39,44 @@ In this project you will select a website or app of your choice and generate the
 ![Sketches](img/01-screenshot.png)
 
 
+**Styleguide:**
+
+![Styleguide](img/01-styleguide.png)
 
 
-### 2. Define three (3) user personas
 
+### 2. Define three (2) user personas 
+
+For people looking to apply for a credit card.
+
+- Frequent international business traveler representative.
+- Online shopper that wants to earn rewards.
+- Business owner that buys company equipment and pays for services.
 
 
 
 ### 3. Identify two (2) user journeys
 
+> “As a `<type of user>`, I want `<some goal>` so that `<some reason>`.”
+
+
+- As a *college student*, I want to have an *emergency fund*, so that *I can get gas and food when in distress*.
+
+(No annual fee, average credit score, low interest, cash-back)
+
+
+- As an *international traveler*, I want be able to *make purchases abroad* so that I can *earn points and get free flights*.
+
+(No foreign transaction fees, works globally, regards incentives)
+
+
+- As a *high-school student*, I want to *find out my credit score*, so that *I can apply for a credit card*.
 
 
 
+![Flow A](img/03-user-flow-a.png)
+
+![Flow B](img/03-user-flow-b.png)
 
 
 
