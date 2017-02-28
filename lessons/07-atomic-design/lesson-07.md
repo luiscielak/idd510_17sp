@@ -22,17 +22,18 @@
 
 ### Atoms
 
-Atoms are the most abstract elements. These are the basic building blocks. Colors, typefaces and HTML tags.
-
-
-Buttons, forms, images, text
+Atoms are the most abstract elements. These are the basic building blocks. Colors, typefaces and HTML tags (buttons, forms, images, text)
 
 **Text**
 <div>Primary font: "HelveticaNeue", "Helvetica", "Arial", sans-serif;</div>
 <div><em>Primary font italic: "HelveticaNeue", "Helvetica", "Arial", sans-serif;</em></div>
 <div><strong>Primary font bold: "HelveticaNeue", "Helvetica", "Arial", sans-serif;</strong></div>
 
-
+```
+<div>Primary font: "HelveticaNeue", "Helvetica", "Arial", sans-serif;</div>
+<div><em>Primary font italic: "HelveticaNeue", "Helvetica", "Arial", sans-serif;</em></div>
+<div><strong>Primary font bold: "HelveticaNeue", "Helvetica", "Arial", sans-serif;</strong></div>
+```
 
 
 
