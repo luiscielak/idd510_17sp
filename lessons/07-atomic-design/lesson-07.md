@@ -22,25 +22,36 @@ Example: colors, typefaces and HTML tags such as buttons, forms, images, text.
 
 
 **Molecules**
+
 Molecules are atoms combined to serve a specific purpose. These are the basic building blocks.
-Example: form-fields, labels, lists, sections.
+
+_Example: form-fields, labels, lists, sections._
+
 ![Atoms](img/molecule.jpg)
 
 
 **Organisms**
+
 Organisms are molecules combined. These are reusable interface components. 
-Example: a header nav that includes a logo, links, a button, and a search bar.
+
+_Example: a header nav that includes a logo, links, a button, and a search bar._
+
 ![Organisms](img/organism.jpg)
 
 
 **Templates**
+
 Templates are formed by combining multiple organisms together. These are the wireframes that convey a structure.
-Example: a wireframe of a log-in screen, sign-up form, or checkout page.
+
+_Example: a wireframe of a log-in screen, sign-up form, or checkout page._
+
 ![Templates](img/template.jpg)
 
 
 **Pages**
-Pages are the final result. These are high-fidelity mockups of the templates.
+
+_Pages are the final result. These are high-fidelity mockups of the templates._
+
 ![Pages](img/page.jpg)
 
 
