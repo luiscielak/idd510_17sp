@@ -34,7 +34,6 @@ Buttons, forms, images, text
 
 
 
-![Atoms](img/atoms.jpg)
 
 
 
