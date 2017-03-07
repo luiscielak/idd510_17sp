@@ -12,14 +12,20 @@
 
 ### 1. File Folder Structure
 
+Having your project organized is key. Before you begin working on your project, setup your folder structure. This will allow you to keep a clear and organized mind throughout your project. 
 
-- **_assets:** This folder contains fonts, icons, images, logos
-- **_exports:** This folder has all your design exports such as JPG, PNG, SVG files.
+- **_assets:** This folder contains fonts, icons, images, logos. These are to be shared with internal/external teams and it includes everything needed to build the app/site.
+
+- **_exports:** This folder has all your design exports such as JPG, PNG, SVG files. Any time you export your design, they go here.
+
 - **build:** This folder contains your source code along with any other code examples, references or modules.
-- **design:** This folder contains all designs from Sketch, PhotoShop or Illustrator files. These should be organized by purpose (wireframes, journeys, branding, etc).
+
+- **design:** This folder contains all design files from Sketch, PhotoShop or Illustrator. These should be organized by purpose (wireframes, journeys, branding, etc).
+
 - **docs:** This folder contains all your design documentation (Word, Pages) and presentation files (Keynote, PowerPoint).
 
 
+**Project Folder Structure Template:** [Download Template][folder-template.zip]
 
 ```
 ProjectName
