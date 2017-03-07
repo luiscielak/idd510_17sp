@@ -17,7 +17,7 @@ Having your project organized is key. Before you begin working on your project, 
 
 - **_exports:** This folder has all your design exports such as JPG, PNG, SVG files. Any time you export your designs, they go here.
 
-- **build:** This folder contains your source code along with any other code examples, references or modules.
+- **build:** This folder contains your source code along with any other code examples, references or modules. The source (_src_) folder contains you HTML, CSS, JS files.
 
 - **design:** This folder contains all design files from Sketch, PhotoShop or Illustrator. These should be organized by purpose (wireframes, journeys, branding, etc).
 
