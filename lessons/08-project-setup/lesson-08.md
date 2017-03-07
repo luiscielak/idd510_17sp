@@ -4,13 +4,11 @@
 ## Topics covered
 
 * File Folder Structure
-* Colors
-* Typefaces
-* Grid
+* Grid Systems
 
 
 
-### 1. File Folder Structure
+### File Folder Structure
 
 Having your project organized is key. Before you begin working on your project, setup your folder structure. This will allow you to keep a clear and organized mind throughout your project. 
 
@@ -25,7 +23,8 @@ Having your project organized is key. Before you begin working on your project, 
 - **docs:** This folder contains all your design documentation (Word, Pages) and presentation files (Keynote, PowerPoint).
 
 
-**Project Folder Structure Template:** ([Download Template](folder-template.zip))
+**Project folder structure:** ([Download Template](folder-template.zip))
+
 
 ```
 ProjectName
@@ -52,35 +51,97 @@ ProjectName
 ```
 
 
-### 2. Colors
+### Grid Systems
+
+
+[Don't Overthink It Grids - Source][http://codepen.io/chriscoyier/pen/eGcLw]
+
+
+## 1. Grid context
+
+
+**HTML**
+```
+<div class="grid">
+  <!-- 100% wide -->
+</div>
+```
+
+**CSS**
+
+
+## 2. Columns
+
+**HTML**
+```
+<div class="grid">
+  <div class="col-2-3">
+     Main Content
+  </div>
+  <div class="col-1-3">
+     Sidebar
+  </div>
+</div>
+```
+
+**CSS**
+```
+[class*='col-'] {
+  float: left;
+}
+
+
+.col-2-3 {
+  width: 66.66%;
+}
+.col-1-3 {
+  width: 33.33%;
+}
+
+// Clearing context
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+```
+
+## 3. Gutters
 
 
 
+```
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
-### 3. Typefaces
 
 
+[class*='col-'] {
+  padding-right: 20px;
+}
+[class*='col-']:last-of-type {
+  padding-right: 0;
+}
 
+```
 
-### 4. Grid
 
 
 
 
 ## Resources
 
-* [A Step-by-Step Guide for Starting a New App Design Project in Sketch][4]
-* [Coolors.co][1]
-* [Google Fonts][2]
-* [Font Pair][3]
+* [A Step-by-Step Guide for Starting a New App Design Project in Sketch][1]
+* [Don’t Overthink It Grids (CSS Tricks)][2]
+* [Creating Your Own CSS Grid System][3]
+* [A Complete Guide to Flexbox][4]
 
 
+[1]: https://medium.com/ux-power-tools/a-step-by-step-guide-for-starting-a-new-app-design-project-in-sketch-469df0f24af8
+[2]: https://css-tricks.com/dont-overthink-it-grids/
+[3]: http://j4n.co/blog/Creating-your-own-css-grid-system
+[4]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-## Project: Grid Systems
-
-
-
-[1]: https://coolors.co/app
-[2]: https://fonts.google.com/
-[3]: http://fontpair.co/
-[4]: https://medium.com/ux-power-tools/a-step-by-step-guide-for-starting-a-new-app-design-project-in-sketch-469df0f24af8
