@@ -14,9 +14,11 @@ This repository contains all lessons and assignments for the course _Essentials 
 * [Lesson 05 - HTML Forms](lessons/05-html-forms/lesson-05.md)
 * [Lesson 06 - UX Deliverables](lessons/06-ux-deliverables/lesson-06.md)
 * [Lesson 07 - Atomic Design](lessons/07-atomic-design/lesson-07.md)
+* [Lesson 08 - Project Setup](lessons/08-project-setup/lesson-08.md)
 
 **Projects** 
 
 * [Project 01 - Drawing with CSS](projects/01-drawing-css/project-01.md)
 * [Project 02 - Responsive Landing Page](projects/02-responsive-landing-page/project-02.md)
 * [Project 03 - UX Deconstruction](projects/03-ux-deconstruction/project-03.md)
+* [Project 04 - Grid Systems](projects/04-grid-systems/project-04.md)
