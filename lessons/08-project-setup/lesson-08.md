@@ -26,6 +26,7 @@ Having your project organized is key. Before you begin working on your project, 
 
 **Project folder structure:** ([Download Template](folder-template.zip))
 
+![Folder Structure](img\folder-structure.png)
 
 ```
 ProjectName
