@@ -57,9 +57,7 @@ ProjectName
 
 ## Grid Systems
 
-The 960 Grid System is an effort to streamline web development.
-
-The dimensions are based on a width of 960 pixels. The 12-column grid is divided into portions that are 60 pixels wide. Each column has 10 pixels of margin on the left and right, which create 20 pixel wide gutters between columns. 
+The 960 Grid System dimensions are based on a width of **960 pixels**. The **12-column** grid is divided into portions that are **60 pixels** wide. Each column has 10 pixels of margin on the left and right, which create **20 pixel** wide gutters between columns. 
 
 ![960 12 column grid](img/960-grid.png)
 
@@ -72,6 +70,7 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
 
 ### 1. Grid context
 
+This is a block level that acts as the wrapper for our grid. 
 
 **HTML**
 ```
@@ -79,9 +78,6 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
   <!-- 100% wide -->
 </div>
 ```
-
-**CSS**
-
 
 ### 2. Columns
 
@@ -103,10 +99,10 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
   float: left;
 }
 
-
 .col-2-3 {
   width: 66.66%;
 }
+
 .col-1-3 {
   width: 33.33%;
 }
@@ -129,8 +125,6 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
   box-sizing: border-box;
 }
 
-
-
 [class*='col-'] {
   padding-right: 20px;
 }
@@ -139,10 +133,10 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
 }
 
 ```
-[Box Sizing](https://css-tricks.com/almanac/properties/b/box-sizing/)
 
+[CSS Grid System](grid-system/index.html)
 
-
+- - -
 
 ## Resources
 
@@ -151,11 +145,11 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
 * [Creating Your Own CSS Grid System][3]
 * [A Complete Guide to Flexbox][4]
 * [960 Grid System][5]
-
+* [Box Sizing][6]
 
 [1]: https://medium.com/ux-power-tools/a-step-by-step-guide-for-starting-a-new-app-design-project-in-sketch-469df0f24af8
 [2]: https://css-tricks.com/dont-overthink-it-grids/
 [3]: http://j4n.co/blog/Creating-your-own-css-grid-system
 [4]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 [5]: http://960.gs/
-
+[6]: https://css-tricks.com/almanac/properties/b/box-sizing/

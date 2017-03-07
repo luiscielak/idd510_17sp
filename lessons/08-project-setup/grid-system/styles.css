@@ -7,8 +7,8 @@ Source: http://codepen.io/chriscoyier/pen/eGcLw
 /* Base Context */
 
 .grid {
-  background: white;
-  margin: 0 0 20px 0;
+  // background: white;
+  // margin: 0 0 20px 0;
 }
 
 .grid:after {
@@ -58,6 +58,7 @@ Source: http://codepen.io/chriscoyier/pen/eGcLw
 .grid-pad {
   padding: 20px 0 20px 20px;
 }
+
 .grid-pad [class*='col-']:last-of-type {
   padding-right: 20px;
 }
