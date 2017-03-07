@@ -134,7 +134,8 @@ This is a block level that acts as the wrapper for our grid.
 
 ```
 
-[CSS Grid System](grid-system/index.html)
+[CSS Grid System - Demo](grid-system/index.html)
+[CSS Grid System - Source Files](grid-system/)
 
 - - -
 
