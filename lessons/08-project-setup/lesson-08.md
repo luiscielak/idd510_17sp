@@ -57,6 +57,9 @@ ProjectName
 
 ## Grid Systems
 
+The 960 Grid System is an effort to streamline web development.
+
+The dimensions are based on a width of 960 pixels. The 12-column grid is divided into portions that are 60 pixels wide. Each column has 10 pixels of margin on the left and right, which create 20 pixel wide gutters between columns. 
 
 ![960 12 column grid](img/960-grid.png)
 
@@ -119,8 +122,6 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
 ### 3. Gutters
 
 
-[Box Sizing](https://css-tricks.com/almanac/properties/b/box-sizing/)
-
 ```
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
@@ -138,7 +139,7 @@ Read: [Don't Overthink It Grids - CSS Tricks][2]
 }
 
 ```
-
+[Box Sizing](https://css-tricks.com/almanac/properties/b/box-sizing/)
 
 
 
