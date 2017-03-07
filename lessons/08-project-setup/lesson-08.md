@@ -1,6 +1,7 @@
 # Lesson 08 - Project Setup
 
 
+
 ## Topics covered
 
 * File Folder Structure
@@ -8,13 +9,13 @@
 
 
 
-### File Folder Structure
+## File Folder Structure
 
 Having your project organized is key. Before you begin working on your project, setup your folder structure. This will allow you to keep a clear and organized mind throughout your project. 
 
 - **_assets:** This folder contains fonts, icons, images, logos. These are to be shared with internal/external teams and it includes everything needed to build the app/site.
 
-- **_exports:** This folder has all your design exports such as JPG, PNG, SVG files. Any time you export your design, they go here.
+- **_exports:** This folder has all your design exports such as JPG, PNG, SVG files. Any time you export your designs, they go here.
 
 - **build:** This folder contains your source code along with any other code examples, references or modules.
 
@@ -51,13 +52,13 @@ ProjectName
 ```
 
 
-### Grid Systems
+## Grid Systems
 
 
-[Don't Overthink It Grids - Source][http://codepen.io/chriscoyier/pen/eGcLw]
+[Don't Overthink It Grids - Source][2]
 
 
-## 1. Grid context
+### 1. Grid context
 
 
 **HTML**
@@ -70,7 +71,7 @@ ProjectName
 **CSS**
 
 
-## 2. Columns
+### 2. Columns
 
 **HTML**
 ```
@@ -106,9 +107,10 @@ ProjectName
 }
 ```
 
-## 3. Gutters
+### 3. Gutters
 
 
+[Box Sizing](https://css-tricks.com/almanac/properties/b/box-sizing/)
 
 ```
 *, *:after, *:before {

@@ -1,22 +1,24 @@
-/*
-  Grid Systems - CSS
-  Source: http://codepen.io/chriscoyier/pen/eGcLw
+/* 
+Grid Systems - CSS
+Source: http://codepen.io/chriscoyier/pen/eGcLw
 */
 
-* {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
+
+/* Base Context */
 
 .grid {
+  background: white;
   margin: 0 0 20px 0;
 }
+
 .grid:after {
   content: "";
   display: table;
   clear: both;
 }
+
+
+/* Columns */
 
 [class*='col-'] {
   float: left;
@@ -58,4 +60,13 @@
 }
 .grid-pad [class*='col-']:last-of-type {
   padding-right: 20px;
+}
+
+
+/* Gutters */
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
