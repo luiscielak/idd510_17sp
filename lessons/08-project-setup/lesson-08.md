@@ -139,11 +139,13 @@ Read: [Box Sizing][6]
 
 ```
 
-![Grid System](img/grid-system.png)
-
 [CSS Grid System - Demo](grid-system/index.html)
 
 [CSS Grid System - Source Files](https://github.com/luiscielak/idd510_17sp/tree/master/lessons/08-project-setup/grid-system)
+
+
+![Grid System](img/grid-system.png)
+
 
 - - -
 
