@@ -25,7 +25,7 @@ Having your project organized is key. Before you begin working on your project, 
 - **docs:** This folder contains all your design documentation (Word, Pages) and presentation files (Keynote, PowerPoint).
 
 
-**Project Folder Structure Template:** [Download Template][folder-template.zip]
+**Project Folder Structure Template:** ([Download Template](folder-template.zip))
 
 ```
 ProjectName
