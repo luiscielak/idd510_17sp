@@ -134,11 +134,11 @@ This is a block level that acts as the wrapper for our grid.
 
 ```
 
-![Grid System](grid-system.png)
+![Grid System](img/grid-system.png)
 
 [CSS Grid System - Demo](grid-system/index.html)
 
-[CSS Grid System - Source Files](grid-system/)
+[CSS Grid System - Source Files](https://github.com/luiscielak/idd510_17sp/tree/master/lessons/08-project-setup/grid-system)
 
 - - -
 
