@@ -81,6 +81,8 @@ This is a block level that acts as the wrapper for our grid.
 
 ### 2. Columns
 
+Let's start with a practical and common need: a main content area being 2/3 the width and a sidebar being 1/3 the width. We just make two column divs with appropriate class names.
+
 **HTML**
 ```
 <div class="grid">
@@ -117,6 +119,9 @@ This is a block level that acts as the wrapper for our grid.
 
 ### 3. Gutters
 
+The first step toward this is using `box-sizing: border-box;`. The second step is applying a fixed padding to the right side of all columns except the last one.
+
+Read: [Box Sizing][6]
 
 ```
 *, *:after, *:before {
