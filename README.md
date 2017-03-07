@@ -3,7 +3,7 @@
 This repository contains all lessons and assignments for the course _Essentials of Interactive Design_.
 
 
-## Table of contents
+### Table of contents
 
 **Lessons**
 
