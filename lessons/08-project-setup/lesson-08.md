@@ -24,9 +24,11 @@ Having your project organized is key. Before you begin working on your project, 
 - **docs:** This folder contains all your design documentation (Word, Pages) and presentation files (Keynote, PowerPoint).
 
 
+![Folder Structure](img\folder-structure.png)
+
+
 **Project folder structure:** ([Download Template](folder-template.zip))
 
-![Folder Structure](img\folder-structure.png)
 
 ```
 ProjectName
@@ -56,7 +58,13 @@ ProjectName
 ## Grid Systems
 
 
-[Don't Overthink It Grids - Source][2]
+![960 12 column grid](img/960-grid.png)
+
+Source: [960 Grid System][5]
+
+
+Read: [Don't Overthink It Grids - CSS Tricks][2]
+
 
 
 ### 1. Grid context
@@ -141,10 +149,12 @@ ProjectName
 * [Don’t Overthink It Grids (CSS Tricks)][2]
 * [Creating Your Own CSS Grid System][3]
 * [A Complete Guide to Flexbox][4]
+* [960 Grid System][5]
 
 
 [1]: https://medium.com/ux-power-tools/a-step-by-step-guide-for-starting-a-new-app-design-project-in-sketch-469df0f24af8
 [2]: https://css-tricks.com/dont-overthink-it-grids/
 [3]: http://j4n.co/blog/Creating-your-own-css-grid-system
 [4]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[5]: http://960.gs/
 
